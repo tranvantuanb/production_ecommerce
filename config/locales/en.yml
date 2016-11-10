@@ -1,0 +1,92 @@
+en:
+  users:
+    new:
+      create_account: "Create my account"
+      sign_up: "Sign up"
+    create:
+      welcome_to_the_Fshop: "Welcome to the Fshop!"
+    edit:
+      save_changes: "Save changes"
+      please_log_in: "Please login"
+      update_profile: "Update profile"
+    update:
+      profile_updated: "Profile updated!"
+    show:
+      name: "Name"
+      email: "Email"
+      created_at: "Created at"
+      updated_at: "Updated at"
+      time_now: "Time now"
+  sessions:
+    new:
+      log_in: "Log in"
+      new_user: "New user?"
+      sign_up_now: "Sign up now!"
+      remember: "Remember me on this computer"
+    create:
+      invalid_email_password: "Invalid email/password combination!"
+  ecomerces: "Ecommerces"
+  hello: "Hello world"
+  ecomerces: "E-Commerces"
+  layouts:
+    header:
+      framgia: "F-Shop"
+      home: "Home"
+      help: "Help"
+      about: "About"
+      contact: "Contact"
+      login: "Login"
+      signup: "Sign up"
+      account: "Account"
+      profile: "Profile"
+      settings: "Settings"
+      log_out: "Log out"
+      suggest: "Suggest"
+    footer:
+      f_shop: "F-Shop"
+      author: "Bui Quy Hoat & Tran Van Tuan"
+  static_pages:
+    contact:
+      mail_us: "Mail us"
+      address: "Address"
+      phone: "Phone"
+      email: "Email"
+      e_mail: "E-mail : "
+      detail_email: "f-shop@gmail.com"
+      detail_phone: "+84 1994 1994"
+      detail_address: "25T2 - Hoang Dao Thuy Stress, Ha Noi City"
+    home:
+      home: "Home"
+    help:
+      help: "Help"
+    about:
+      about: "About"
+  products:
+    product:
+      dola: "$"
+      view_more: "View more"
+      add_to_cart: "Add to cart"
+    index:
+      new_products: "New Product"
+      best_seller_products: "Best Seller Product"
+    show:
+      fabric_origin: "Fabric Origin"
+      vietnam: "Viet Nam"
+      made_in: "Made in"
+      color: "COLOR"
+      size: "SIZE"
+      order_now: "Order now"
+      share: "Share"
+  suggest_products:
+    new:
+      please_log_in: "Please Log In"
+      suggest_create: "Suggest Create"
+    form:
+      compose_new_suggest_product: "Compose new suggest product"
+      post: "Post"
+    show:
+      suggest_name_label: "Suggest Product Name"
+      suggest_description: "Suggest Product Description"
+      infomation_suggest: "Suggest Information"
+    create:
+      suggest_create_suggest: "Suggest Product Create Sucessfully"
